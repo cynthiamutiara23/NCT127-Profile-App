@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title">NCT 127 Members</string>
+    <string name="members_name">Nama Member</string>
+    <string name="birthdate">Tanggal Lahir</string>
+    <string name="description">Deskripsi</string>
+    <string name="emoji">Official Emoji</string>
+    <string name="about">About</string>
+    <string name="my_name">Cynthia Mutiara</string>
+    <string name="my_email">a181dsy1107@bangkit.academy</string>
+    <string name="member_received">Member Diterima</string>
+    <string-array name="data_name">
+        <item>Taeil</item>
+        <item>Johnny</item>
+        <item>Taeyong</item>
+        <item>Yuta</item>
+        <item>Doyoung</item>
+        <item>Jaehyun</item>
+        <item>Winwin</item>
+        <item>Jungwoo</item>
+        <item>Mark</item>
+        <item>Haechan</item>
+    </string-array>
+    <string-array name="data_birthdate">
+        <item>14 Juni 1994</item>
+        <item>9 Februari 1995</item>
+        <item>1 Juli 1995</item>
+        <item>26 Oktober 1995</item>
+        <item>1 Februari 1996</item>
+        <item>14 Februari 1997</item>
+        <item>28 Oktober 1997</item>
+        <item>19 Februari 1998</item>
+        <item>2 Agustus 1999</item>
+        <item>6 Juni 2000</item>
+    </string-array>
+    <string-array name="data_emoji">
+        <item>🌕 /🌙 (moon)</item>
+        <item>🐱 (cat)</item>
+        <item>🌹 (rose)</item>
+        <item>🐙 (octopus)</item>
+        <item>🐰 (bunny/rabbit)</item>
+        <item>🍑 (peach)</item>
+        <item>🐥 (chick)</item>
+        <item>🐶 (puppy)</item>
+        <item>🐯 (tiger)</item>
+        <item>🐻 (bear)</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Moon Tae-il (Hangul: 문태일), atau lebih dikenal dengan mononim Taeil adalah penyanyi asal Korea Selatan. Ia merupakan vokalis utama grup musik Korea Selatan NCT. Ia juga tergabung kedalam sub-unit NCT U dan NCT 127 yang bernaung dibawah asuan perusahaan SM Entertainment. Taeil memulai debutnya pada 10 April 2016 di unit rotasi NCT U dan NCT 127 pada 7 Juli 2016. Ia juga merupakan salah satu member NCT yang pada awal kemunculannya diperkenalkan melalui SM Rookies pada tahun 2015.</item>
+        <item>Seo Young-ho (서영호) atau Johnny (쟈니) atau yang lebih dikenal dengan Johnny Suh adalah seorang penyanyi, model dan rapper Korea-Amerika di bawah kontrak SM Entertainment. Ia adalah anggota grup vokal laki-laki NCT dan sub-unit NCT 127. Johnny dikonfirmasi menjadi bagian dari NCT 127 pada tanggal 27 Desember 2016. Pada September 2008, Johnny lolos audisi SM Global Audition di Chicago dan menjadi trainee di SM Entertainment.</item>
+        <item>Lee Tae-yong (Hangul: 이태용), dikenal dengan mononimnya Taeyong, adalah seorang rapper utama, penulis lagu, penari utama, koreografer, visual, dan penyanyi asal Korea Selatan. Ia adalah pemimpin sekaligus anggota dari grup vokal pria asal Korea Selatan, NCT, dalam subunit NCT U dan merupakan pemimpin NCT 127. Saat ini ia juga tergabung sebagai anggota grup vokal SM Entertainment lainnya, yaitu SuperM.</item>
+        <item>Yuta Nakamoto (中本 悠太) secara profesional dikenal sebagai YUTA (유타) adalah seorang penyanyi, penari, rapper, dan aktor Jepang yang berbasis di Korea Selatan. Ia merupakan anggota dari grup vokal pria asal Korea Selatan, NCT, ia mengikuti audisi SM Global Audition di Jepang tahun 2012 ia lolos audisi lalu bergabung SM Rookies pada tahun 2013, tak lama setelah bergabung ia debut di sub-unit kedua dari NCT yaitu NCT 127 pada tahun 2016. Menjadikan dia sebagai idol pertama di SM Entertainment yang berasal dari Jepang.</item>
+        <item>Kim Dong-young (김동영), atau dikenal dengan nama Doyoung adalah penyanyi, aktor dan host asal Korea Selatan .Ia dikenal sebagai anggota grup vokal pria Korea Selatan, NCT dan kedua sub unitnya NCT U dan NCT 127. Doyoung debut pada bulan April tahun 2016 sebagai anggota tidak tetap NCT U dan anggota subunit tetap yang berbasis di Seoul, NCT 127, pada Januari 2017. Pada tahun 2021, ia membintangi drama televisi Midnight Cafe Season 3 -The Curious Stalker dan muncul dalam musikal Marie Antoinette.</item>
+        <item>Jeong Yun-o (Hangul: 정윤오; lahir Jeong Jae-hyun (Hangul: 정재현), lebih dikenal dengan nama panggung Jaehyun, adalah penyanyi, penulis lagu, dan aktor asal Korea Selatan. Ia paling dikenal sebagai anggota grup vokal pria Korea Selatan NCT dan sub-unitnya, NCT U dan NCT 127. Jaehyun memulai debutnya pada April 2016 sebagai anggota unit rotasi NCT U dan menjadi anggota tetap unit NCT 127 pada Juli 2016. Ia juga merupakan mantan pembawa acara Inkigayo sejak Oktober 2019 hingga Februari 2021.</item>
+        <item>Dǒng Sīchéng (董思成) atau Winwin (윈윈) adalah seorang penyanyi Tiongkok di bawah kontrak SM Entertainment. Ia adalah anggota grup vokal laki-laki NCT dan sub-unit NCT 127, NCT U dan WayV. Ia juga merangkap menjadi vokalis, rapper, dan visual. WinWin pertama kali diperkenalkan sebagai bagian dari sub-unit NCT 127 di tahun 2016 bersama Taeil, Taeyong, Yuta, Jaehyun, Mark, dan Haechan.</item>
+        <item>Kim Jungwoo (김정우) adalah seorang penyanyi Korea Selatan di bawah kontrak SM Entertainment. Ia adalah anggota grup vokal laki-laki NCT dan sub-unit NCT U dan NCT 127. Ia berhasil menjadi masuk SM Entertainment setelah lolos di audisi mingguan. Jungwoo diperkenalkan sebagai bagian dari SM Rookies pada 18 April 2017. Pada 30 Januari 2018, SM Entertainment mengumumkan kalau Jungwoo akan debut sebagai anggota NCT.</item>
+        <item>Mark Lee, lebih dikenal dengan nama Mark adalah rapper, dancer, dan penyanyi berkebangsaan Kanada. Ia merupakan anggota dari boyband asal Korea Selatan, NCT. Mark tergabung dalam 3 sub-unit NCT, yakni NCT U, NCT 127, dan NCT Dream. Saat ini ia juga merupakan anggota dari super grup SuperM. Mark juga kerap berkontribusi sebagai solois maupun melakukan kolaborasi dengan musisi lainnya.</item>
+        <item>Lee Dong-hyuck lebih dikenal dengan nama Haechan, adalah penyanyi berkebangsaan Korea Selatan. Ia merupakan anggota dari boy band asal Korea Selatan, NCT, serta ketiga sub-unitnya, NCT 127, NCT Dream, dan NCT U. Selain bermusik melalui Grup Musik NCT, NCT U, NCT Dream dan NCT 127, Haechan juga berkontribusi sebagai solois maupun melakukan kolaborasi dengan musisi lainnya.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/kboy-group/images/a/a4/Taeil_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201118215230</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/f/f8/Johnny_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201118214833</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/a/aa/Taeyong_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201116091909</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/5/5d/Yuta_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201118215353</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/d/dd/Doyoung_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201118214404</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/a/a8/Jaehyun_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201118214613</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/b/b4/Winwin_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201118215313</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/7/75/Jungwoo_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201116091732</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/8/89/Mark_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201118215049</item>
+        <item>https://static.wikia.nocookie.net/kboy-group/images/1/19/Haechan_%28Resonance_Pt._2%29_2.png/revision/latest?cb=20201118214450</item>
+    </string-array>
+</resources>
